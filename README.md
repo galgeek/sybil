@@ -9,5 +9,5 @@ a file-based implementation, after reading that dreamhost's database servers
 were not very reliable, as well as for simplicity's sake, for a small site 
 updated initially once or twice a year with a new series.
 
-We later added a Zen Cart install, for online sales.
+I later added a Zen Cart install, for online sales.
 
