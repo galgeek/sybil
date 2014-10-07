@@ -1,6 +1,6 @@
 This repo contains the code for the first site I developed on my own, 
 about 2004, using custom file-based, not database-backed, PHP scripts. 
-The most noteworthy of these is gallery.php, which provides all the site's 
+The most noteworthy of these is gallery.php, which provides the site's 
 gallery pages, including the main gallery, each series' gallery, and each 
 individual image's page. 
 
