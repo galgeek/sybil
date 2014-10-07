@@ -1,0 +1,50 @@
+div,p,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 19px;
+	display: block;
+	color: white;
+	padding-top:0px;
+	margin-top:0px;
+}
+
+h1,h2,caption { 
+	font: normal small-caps bold 16px/19px Tempus Sans ITC, Arial, Helvetica, sans-serif;
+	letter-spacing: 0.2em;
+	padding-top:0px;
+	padding-bottom:9px;
+	color: white;
+	margin:0px;
+}
+
+h2 {
+	padding-top: 15px;
+}
+
+a,a:visited { 
+	text-decoration:none;
+	font-weight:bold;
+	color:#A39161;
+}
+
+a:hover,a:active {
+	text-decoration: underline;
+}
+
+.footer {
+	font-size: 11px;
+}
+
+.thumb,.thumbtext {
+	font-size: 9px;
+	line-height:10px;
+}
+
+.note {
+	font:italic normal normal 12px/15px Arial, Helvetica, sans-serif;
+	letter-spacing: normal;
+}
+
+.click {
+	font:bold 11px/22px Arial, Helvetica, sans-serif ;
+}

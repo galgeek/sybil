@@ -1,0 +1,65 @@
+/* used by index.html */
+body {
+	margin: 0px;
+	padding:0px;
+	border:0px;
+	background:#000;
+}
+
+#madfrogpresents {
+	margin-top: 2.5em;
+	text-align: center;
+}
+
+#layoutframe {
+	 margin-left:auto;
+	 margin-right:auto;
+	 margin-top: 2.5em;
+	 width:784px;
+	 background:#7F2218;
+	 border:5px solid #A39161;
+}
+* html #layoutframe {
+	width:794px;
+	w\idth:784px;
+}
+ 
+#leftframe {
+	float: left;
+	background: #7F2218;
+	padding:10px 9px 0 9px;
+	width:158px;
+}
+* html #leftframe {
+	width:176px;
+	w\idth:158px;
+}
+
+#rightframe {
+	border-left:5px solid #A39161;
+	border-right:5px solid #A39161;
+	text-align:center;
+	margin: 0 0 0 176px;
+	padding-top:10px;
+	padding-bottom:10px;
+	background:#000;
+	width:422px;
+}
+* html #rightframe {
+	width:432px;
+	w\idth:422px;
+}
+
+#rightframe img {
+	border:2px solid #A39161;
+}
+
+#menuframe {
+	padding-top:10px;
+	width:100px;
+}
+
+#menuframe img {
+	border:0;
+	padding-top:10px;
+}
