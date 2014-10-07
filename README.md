@@ -7,6 +7,7 @@ individual image's page.
 I developed this on dreamhost, follwing a friend's referral link, and chose 
 a file-based implementation, after reading that dreamhost's database servers 
 were not very reliable, as well as for simplicity's sake, for a small site 
-updated only occasionally. 
+updated initially once or twice a year with a new series.
 
 We later added a Zen Cart install, for online sales.
+
