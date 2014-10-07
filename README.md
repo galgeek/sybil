@@ -1,6 +1,6 @@
 This repo contains the code for the first site I developed on my own, 
 about 2004, using custom file-based, not database-backed, PHP scripts. 
-The most noteworthy of these is gallery.php, which provides the site's 
+The most noteworthy of these is [gallery.php](https://github.com/galgeek/sybil/blob/master/gallery.php), which provides the site's 
 gallery pages, including the main gallery, each series' gallery, and each 
 individual image's page. 
 
@@ -9,5 +9,5 @@ a file-based implementation, after reading that dreamhost's database servers
 were not very reliable, as well as for simplicity's sake, for a small site 
 updated initially once or twice a year with a new series.
 
-I later added a Zen Cart install, for online sales.
+I later added a [Zen Cart](http://www.zen-cart.com/) install, for online sales.
 
